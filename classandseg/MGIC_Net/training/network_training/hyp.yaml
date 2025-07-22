@@ -1,0 +1,10 @@
+num_classes: 2
+img_channel: 320  # 图片数据通道数
+onehot_dim: 57  # onehot数据的维度
+num_dim: 57  # num数据的维度
+emb_dim: 768  
+mlp_dim: 3072
+num_heads: 1
+num_layers: 4
+attention_dropout_rate: 0.2
+dropout_rate: 0.3 
