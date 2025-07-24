@@ -8,7 +8,7 @@ The project  is an implementation of Multimodal Graph Intra- and Cross-Attention
 
 ## Catalogs  
 
-- **/classandseg/MGIC_Net**: Contains the code implementation of MMDMA algorithm.
+- **/classandseg/MGIC_Net**: Contains the code implementation of MGIC-Net algorithm.
 - **/MGIC_Net/network_architecture/generic_UNet.py**: Defines the segmentation model.
 - **/classandseg/MGIC_Net/models/mv3Dunet_down_text_cmsa_small.py**: Defines the classification model.
 - **/classandseg/MGIC_Net/models/mv3Dunet_down_text_cmsa_mid.py**: Defines the classification model.
